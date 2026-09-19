@@ -1,0 +1,6 @@
+{
+  "name": "Vex Finder",
+  "description": "Directorio oficial y scouting de VEX Robotics con visor de Equipos, Eventos, VexBot V5, VexBot IQ, Cuenta y Acerca de.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
